@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #54c3ef;
+    
+}
+.mainContiner{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.haeddingOne{
+    font-family: 'Caveat Brush', cursive;
+    color:  #fad744;
+    text-align: center;
+    font-size: 65px;
+    padding-top: 35px;
+    text-shadow: 0px 3px 0px black;
+}
+
+.fromStyle{
+    background-color: #2b3252;
+    width: 550px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+
+}
+
+.QutionText{
+    color:  #fad744;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 25px;
+    
+
+}
+
+.paddin {
+    padding-left: 30px;
+    padding-bottom: 15px;
+}
+
+.labelText{
+    color:  #fad744;
+    margin-left: 5px;
+}
+
+.hrText{
+    background-color:  #fad744;
+    border: 1px solid #fad744;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.rightSide{
+    background-color: white;
+    height: 150px;
+    width: 100px;
+    margin-left: 5px;
+    padding-left: 15px;
+    padding-top: 25px;
+    border-radius: 6px;
+    position:sticky;
+    top:0px;
+    }
+
+.rightSidemain{
+    display: flex;
+    font-size: 25px;
+    margin-top: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.submitButton{
+    background-color:#fad744;
+    display: block;
+    color: black;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top:5px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 15px;
+
+}
